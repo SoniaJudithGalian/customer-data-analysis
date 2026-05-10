@@ -37,7 +37,7 @@ The objective was to identify:
 ---
 
 ### Top Customers by Revenue
-![Top Customers](clientes_superiores.png)
+![Top Customers](top_clientes.png)
 
 ---
 
